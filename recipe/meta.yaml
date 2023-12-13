@@ -11,7 +11,7 @@ source:
   sha256: eb9595adac26213c731fac53be361f8f4b9e22bd4ba611101b326958949ac9b9
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
 
   # openmpi oversubscribe env
