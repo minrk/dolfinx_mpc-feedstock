@@ -95,7 +95,7 @@ outputs:
       requires:
         - pip
         - pytest
-        - pytest-asyncio
+        - pytest-asyncio 0.22.*
         - python-gmsh
         - scipy
       commands:
